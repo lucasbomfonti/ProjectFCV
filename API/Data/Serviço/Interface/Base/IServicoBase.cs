@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Data.Serviço.Interface.Base
+namespace API.Data.Serviço.Interface.Base
 {
     public interface IServicoBase<T> where T : class
     {

@@ -1,5 +1,5 @@
-﻿using API.Domain;
-using Data.Serviço.Interface.Base;
+﻿using API.Data.Serviço.Interface.Base;
+using API.Domain;
 
 namespace API.Data.Serviço.Interface
 {

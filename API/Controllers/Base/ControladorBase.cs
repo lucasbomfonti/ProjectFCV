@@ -1,6 +1,6 @@
-﻿using Data.Serviço.Interface.Base;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
+using API.Data.Serviço.Interface.Base;
 using API.Helper;
 using API.Models.Base;
 

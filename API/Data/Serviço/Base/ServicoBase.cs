@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using API.Data.Repositorio.Interface.Base;
-using Data.Serviço.Interface.Base;
+using API.Data.Serviço.Interface.Base;
 
 namespace Data.Serviço.Base
 {
